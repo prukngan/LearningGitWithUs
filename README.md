@@ -20,11 +20,10 @@ Install <a name="install"></a>
 Setup <a name="setup"></a>
 -----
 1. you need to config git local so that git host knows you
-
+	'''bash
 	git config --global user.email "<email>"
-	
 	git config --global user.name "<git username>"
-
+	'''
 2. if you use Linux/Mac, you need to use
 
 	ssh-keygen -o -t rsa -C "phongsathon.rak2003@gmail.com"
